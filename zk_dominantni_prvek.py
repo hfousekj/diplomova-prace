@@ -1,3 +1,4 @@
+# soubor zaba a zk_dominantni_prvek jsou spíše kody na procvičení práce s Pythonem
 def dominantni(A):
 
     """ Funkce, která ze zadaného pole určí dominantní prvek,
